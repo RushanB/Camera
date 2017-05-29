@@ -1,2 +1,2 @@
 # Camera
-Invokes the Camera of the phone (if has one) and allows user to retake the Picture (provides preview)
+Invokes the Camera of the phone (if the phone has a camera otherwise throws an error message) and allows user to retake the Picture after displaying a preview or continue with the selected image.
